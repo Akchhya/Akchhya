@@ -8,7 +8,7 @@ and code snippets that reflect my journey.<br>
 📫 Feel free to explore my repositories and reach out if you want to just connect. <br>
 
 # My personal ChatBot
-<a href="https://www.blackbox.ai/agent/AzzvM61yUr"></a>
+<a href=https://www.blackbox.ai/agent/AzzvM61yUr></a>
 
 
 
