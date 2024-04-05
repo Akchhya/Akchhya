@@ -1,5 +1,11 @@
-# 💫 About Me:
-                            Hi, I am Akchhya!🙋🏻‍♀️<br>🔭 On my GitHub, you'll find a collection of projects <br>      and code snippets that reflect my journey.<br>🚀 I love diving into new technologies and exploring the latest trends.<br>🌱 I’m currently learning DSA and Generative AI.<br>💬 Some of the technologies I work with include Java , Python and C.<br>⚡ I'm also interested in reading books, sketching and photography.<br>📫 Feel free to explore my repositories and reach out if you want to just connect. 
+  # Hi, I am Akchhya!🙋🏻‍♀️
+🔭 On my GitHub, you'll find a collection of projects 
+and code snippets that reflect my journey.
+🚀 I love diving into new technologies and exploring the latest trends.
+🌱 I’m currently learning DSA and Generative AI.
+💬 Some of the technologies I work with include Java , Python and C.
+⚡ I'm also interested in reading books, sketching and photography.
+📫 Feel free to explore my repositories and reach out if you want to just connect. 
 
 
 ## 🌐 Socials:
